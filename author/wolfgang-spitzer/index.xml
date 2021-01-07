@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Spitzer | Sebastian Litzinger</title>
+    <link>/author/wolfgang-spitzer/</link>
+      <atom:link href="/author/wolfgang-spitzer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang Spitzer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wolfgang Spitzer</title>
+      <link>/author/wolfgang-spitzer/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Runtime Guarantees for Statically Scheduled Taskgraphs with Stochastic Task Runtimes</title>
+      <link>/publication/hpcs-2019-spitzer/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hpcs-2019-spitzer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

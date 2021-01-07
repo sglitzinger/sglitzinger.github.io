@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oliver Körber | Sebastian Litzinger</title>
+    <link>/author/oliver-korber/</link>
+      <atom:link href="/author/oliver-korber/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oliver Körber</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Oliver Körber</title>
+      <link>/author/oliver-korber/</link>
+    </image>
+    
+    <item>
+      <title>Reducing Energy Consumption of HMAC Applications on Heterogeneous Platforms</title>
+      <link>/publication/hpcs-2019-koerber/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hpcs-2019-koerber/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Sebastian Litzinger</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Maximizing Profit in Energy-Efficient Moldable Task Execution with Deadline</title>
+      <link>/talk/pdp2020/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/pdp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Energy-Efficient Code for Parallel Applications Specified by Streaming Task Graphs with Dynamic Elements</title>
+      <link>/talk/ppopp2020pmam/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/ppopp2020pmam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Incremental Constraints on Energy Consumption and Static Scheduling Time for Moldable Tasks with Deadline</title>
+      <link>/talk/hipeac2020multiprog/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/hipeac2020multiprog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault-Tolerant and Energy-Efficient Static Schedules for Multi-Variant Programs</title>
+      <link>/talk/fers2019/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/fers2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-efficient scheduling of stream processing applications with dynamic tasks</title>
+      <link>/talk/summerschool2019saarbruecken/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/summerschool2019saarbruecken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compute-efficient neural network architecture optimization by a genetic algorithm</title>
+      <link>/talk/icann2019/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/icann2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling Moldable Parallel Streaming Tasks on Heterogeneous Platforms with Frequency Scaling</title>
+      <link>/talk/eusipco2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/eusipco2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive crown scheduling for streaming tasks on many-core systems with discrete DVFS</title>
+      <link>/talk/europar2019autodasp/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/europar2019autodasp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Runtime Guarantees for Statically Scheduled Taskgraphs with Stochastic Task Runtimes</title>
+      <link>/talk/hpcs2019hipmic/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/hpcs2019hipmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing Energy Consumption of HMAC Applications on Heterogeneous Platforms</title>
+      <link>/talk/hpcs2019appmm/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/hpcs2019appmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Discretization of Frequencies and Processor Allocation on Static Scheduling of Parallelizable Tasks with Deadlines</title>
+      <link>/talk/pars2019/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/pars2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

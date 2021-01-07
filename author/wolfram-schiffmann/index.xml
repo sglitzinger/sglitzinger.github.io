@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfram Schiffmann | Sebastian Litzinger</title>
+    <link>/author/wolfram-schiffmann/</link>
+      <atom:link href="/author/wolfram-schiffmann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfram Schiffmann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wolfram Schiffmann</title>
+      <link>/author/wolfram-schiffmann/</link>
+    </image>
+    
+    <item>
+      <title>Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm</title>
+      <link>/publication/icann-2019/</link>
+      <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/icann-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

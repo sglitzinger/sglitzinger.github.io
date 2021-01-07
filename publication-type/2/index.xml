@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sebastian Litzinger</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Code generation for energy-efficient execution of dynamic streaming task graphs on parallel and heterogeneous platforms</title>
+      <link>/publication/pmam-2020-ccpe/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pmam-2020-ccpe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Scheduling of Moldable Streaming Tasks With Task Fusion for Parallel Systems With DVFS</title>
+      <link>/publication/emsoft-2020-tcad/</link>
+      <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/emsoft-2020-tcad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Discretization of Frequencies and Processor Allocation on Static Scheduling of Parallelizable Tasks with Deadlines</title>
+      <link>/publication/pars-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/pars-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weight Prediction on Missing Links in Social Networks -- a Cross-Entropy-Based Approach --</title>
+      <link>/publication/bwlquam-2/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bwlquam-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bipartite Structures in Social Networks: Traditional versus Entropy-Driven Analyses</title>
+      <link>/publication/bwlquam-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bwlquam-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
