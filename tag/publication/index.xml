@@ -2,117 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>publication | Sebastian Litzinger</title>
-    <link>/tag/publication/</link>
-      <atom:link href="/tag/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sglitzinger.github.io/tag/publication/</link>
+      <atom:link href="https://sglitzinger.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>publication</title>
-      <link>/tag/publication/</link>
+      <link>https://sglitzinger.github.io/tag/publication/</link>
     </image>
     
     <item>
       <title>Code generation for energy-efficient execution of dynamic streaming task graphs on parallel and heterogeneous platforms</title>
-      <link>/publication/pmam-2020-ccpe/</link>
+      <link>https://sglitzinger.github.io/publication/pmam-2020-ccpe/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pmam-2020-ccpe/</guid>
+      <guid>https://sglitzinger.github.io/publication/pmam-2020-ccpe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Scheduling of Moldable Streaming Tasks With Task Fusion for Parallel Systems With DVFS</title>
-      <link>/publication/emsoft-2020-tcad/</link>
+      <link>https://sglitzinger.github.io/publication/emsoft-2020-tcad/</link>
       <pubDate>Mon, 06 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/emsoft-2020-tcad/</guid>
+      <guid>https://sglitzinger.github.io/publication/emsoft-2020-tcad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maximizing Profit in Energy-Efficient Moldable Task Execution with Deadline</title>
-      <link>/publication/pdp-2020-maxprof/</link>
+      <link>https://sglitzinger.github.io/publication/pdp-2020-maxprof/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pdp-2020-maxprof/</guid>
+      <guid>https://sglitzinger.github.io/publication/pdp-2020-maxprof/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robustness and Energy-elasticity of Crown Schedules for Sets of Parallelizable Tasks on Many-core Systems with DVFS</title>
-      <link>/publication/pdp-2020-robustness/</link>
+      <link>https://sglitzinger.github.io/publication/pdp-2020-robustness/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pdp-2020-robustness/</guid>
+      <guid>https://sglitzinger.github.io/publication/pdp-2020-robustness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generating Energy-Efficient Code for Parallel Applications Specified by Streaming Task Graphs with Dynamic Elements</title>
-      <link>/publication/pmam-2020/</link>
+      <link>https://sglitzinger.github.io/publication/pmam-2020/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pmam-2020/</guid>
+      <guid>https://sglitzinger.github.io/publication/pmam-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive Crown Scheduling for Streaming Tasks on Many-Core Systems with Discrete DVFS</title>
-      <link>/publication/europar-2019/</link>
+      <link>https://sglitzinger.github.io/publication/europar-2019/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/europar-2019/</guid>
+      <guid>https://sglitzinger.github.io/publication/europar-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of Discretization of Frequencies and Processor Allocation on Static Scheduling of Parallelizable Tasks with Deadlines</title>
-      <link>/publication/pars-2019/</link>
+      <link>https://sglitzinger.github.io/publication/pars-2019/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/pars-2019/</guid>
+      <guid>https://sglitzinger.github.io/publication/pars-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scheduling Moldable Parallel Streaming Tasks on Heterogeneous Platforms with Frequency Scaling</title>
-      <link>/publication/eusipco-2019/</link>
+      <link>https://sglitzinger.github.io/publication/eusipco-2019/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/eusipco-2019/</guid>
+      <guid>https://sglitzinger.github.io/publication/eusipco-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Runtime Guarantees for Statically Scheduled Taskgraphs with Stochastic Task Runtimes</title>
-      <link>/publication/hpcs-2019-spitzer/</link>
+      <link>https://sglitzinger.github.io/publication/hpcs-2019-spitzer/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hpcs-2019-spitzer/</guid>
+      <guid>https://sglitzinger.github.io/publication/hpcs-2019-spitzer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reducing Energy Consumption of HMAC Applications on Heterogeneous Platforms</title>
-      <link>/publication/hpcs-2019-koerber/</link>
+      <link>https://sglitzinger.github.io/publication/hpcs-2019-koerber/</link>
       <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hpcs-2019-koerber/</guid>
+      <guid>https://sglitzinger.github.io/publication/hpcs-2019-koerber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm</title>
-      <link>/publication/icann-2019/</link>
+      <link>https://sglitzinger.github.io/publication/icann-2019/</link>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/icann-2019/</guid>
+      <guid>https://sglitzinger.github.io/publication/icann-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weight Prediction on Missing Links in Social Networks -- a Cross-Entropy-Based Approach --</title>
-      <link>/publication/bwlquam-2/</link>
+      <link>https://sglitzinger.github.io/publication/bwlquam-2/</link>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bwlquam-2/</guid>
+      <guid>https://sglitzinger.github.io/publication/bwlquam-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bipartite Structures in Social Networks: Traditional versus Entropy-Driven Analyses</title>
-      <link>/publication/bwlquam-1/</link>
+      <link>https://sglitzinger.github.io/publication/bwlquam-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bwlquam-1/</guid>
+      <guid>https://sglitzinger.github.io/publication/bwlquam-1/</guid>
       <description></description>
     </item>
     
