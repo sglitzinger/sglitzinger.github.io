@@ -5,12 +5,28 @@
     <link>https://sglitzinger.github.io/talk/</link>
       <atom:link href="https://sglitzinger.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://sglitzinger.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</title>
+      <link>https://sglitzinger.github.io/talk/ipdps2021jsspp/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/talk/ipdps2021jsspp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures</title>
+      <link>https://sglitzinger.github.io/talk/fers2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/talk/fers2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Maximizing Profit in Energy-Efficient Moldable Task Execution with Deadline</title>

@@ -1,278 +1,180 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication-type/2/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/authors/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/christoph-kessler/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pdp-2020-jsa/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/jorg-keller/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/tag/publication/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication_types/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/sebastian-litzinger/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/tags/</loc>
-    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/pdp2020/</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://sglitzinger.github.io/talk/</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/tags/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sglitzinger.github.io/tag/talk/</loc>
-    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/ppopp2020pmam/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/hipeac2020multiprog/</loc>
-    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pmam-2020-ccpe/</loc>
-    <lastmod>2021-01-07T14:03:44+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/emsoft-2020-tcad/</loc>
-    <lastmod>2021-01-06T12:06:47+01:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/ipdps2021jsspp/</loc>
+    <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/fers2021/</loc>
+    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sglitzinger.github.io/publication-type/1/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pdp-2020-maxprof/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pdp-2020-robustness/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pmam-2020/</loc>
-    <lastmod>2021-01-06T12:06:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/europar-2019/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication-type/3/</loc>
-    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/pars-2019/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/multiprog-2020/</loc>
-    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/workingpaper/multiprog-2020/</loc>
-    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/workingpaper/</loc>
-    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/tag/workingpaper/</loc>
-    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/fers2019/</loc>
-    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/summerschool2019saarbruecken/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/icann2019/</loc>
-    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/tag/poster/</loc>
-    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/eusipco2019/</loc>
-    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/europar2019autodasp/</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/hpcs2019hipmic/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/hpcs2019appmm/</loc>
-    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/talk/pars2019/</loc>
-    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/eusipco-2019/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/hpcs-2019-spitzer/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/wolfgang-spitzer/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/oliver-korber/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/hpcs-2019-koerber/</loc>
-    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/andreas-klos/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/icann-2019/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/wolfram-schiffmann/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://sglitzinger.github.io/authors/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/christoph-kessler/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/arc-2021/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/jorg-keller/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/tag/publication/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication_types/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/sebastian-litzinger/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication-type/2/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/bwlquam-3/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sglitzinger.github.io/author/andreas-dellnitz/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/author/ivan-gartner/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sglitzinger.github.io/publication/bwlquam-2/</loc>
-    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sglitzinger.github.io/author/wilhelm-rodder/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pdp-2020-jsa/</loc>
+    <lastmod>2021-01-08T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/pdp2020/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/ppopp2020pmam/</loc>
+    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/hipeac2020multiprog/</loc>
+    <lastmod>2020-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pmam-2020-ccpe/</loc>
+    <lastmod>2021-01-07T14:03:44+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/emsoft-2020-tcad/</loc>
+    <lastmod>2021-01-06T12:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pdp-2020-maxprof/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pdp-2020-robustness/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pmam-2020/</loc>
+    <lastmod>2021-01-06T12:06:47+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/europar-2019/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication-type/3/</loc>
+    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/pars-2019/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/multiprog-2020/</loc>
+    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/workingpaper/multiprog-2020/</loc>
+    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/workingpaper/</loc>
+    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/tag/workingpaper/</loc>
+    <lastmod>2021-01-06T13:44:36+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/fers2019/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/summerschool2019saarbruecken/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/icann2019/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/tag/poster/</loc>
+    <lastmod>2019-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/eusipco2019/</loc>
+    <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/europar2019autodasp/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/hpcs2019hipmic/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/hpcs2019appmm/</loc>
+    <lastmod>2019-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/talk/pars2019/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/eusipco-2019/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/hpcs-2019-spitzer/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/wolfgang-spitzer/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/oliver-korber/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/hpcs-2019-koerber/</loc>
+    <lastmod>2021-01-06T12:06:48+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/andreas-klos/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/icann-2019/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/wolfram-schiffmann/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/author/ivan-gartner/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
+    <loc>https://sglitzinger.github.io/publication/bwlquam-2/</loc>
+    <lastmod>2021-01-06T12:06:49+01:00</lastmod>
+  </url><url>
     <loc>https://sglitzinger.github.io/publication/bwlquam-1/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sglitzinger.github.io/author/elmar-reucher/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sglitzinger.github.io/author/friedhelm-kulmann/</loc>
     <lastmod>2021-01-06T12:06:49+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sglitzinger.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://sglitzinger.github.io/author/sebastian-litzinger/</loc>
   </url>
-  
 </urlset>
