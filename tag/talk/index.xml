@@ -5,12 +5,20 @@
     <link>https://sglitzinger.github.io/tag/talk/</link>
       <atom:link href="https://sglitzinger.github.io/tag/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>talk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>talk</title>
       <link>https://sglitzinger.github.io/tag/talk/</link>
     </image>
+    
+    <item>
+      <title>Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures</title>
+      <link>https://sglitzinger.github.io/talk/europar2021resilience/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/talk/europar2021resilience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</title>
