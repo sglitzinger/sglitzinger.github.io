@@ -5,12 +5,44 @@
     <link>https://sglitzinger.github.io/tag/publication/</link>
       <atom:link href="https://sglitzinger.github.io/tag/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>publication</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>publication</title>
       <link>https://sglitzinger.github.io/tag/publication/</link>
     </image>
+    
+    <item>
+      <title>Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures</title>
+      <link>https://sglitzinger.github.io/publication/resilience-2021/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/publication/resilience-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Search Space Design for Energy-Efficient Static Scheduling of Moldable Tasks</title>
+      <link>https://sglitzinger.github.io/publication/jpdc-2022/</link>
+      <pubDate>Sun, 02 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/publication/jpdc-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining efficiency and scaling effects in activity analysis: towards an improved best practice criterion</title>
+      <link>https://sglitzinger.github.io/publication/bwlquam-4/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/publication/bwlquam-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Continuous vs Discrete Frequency Scaling and Core Allocation on Energy Efficiency of Static Schedules for Moldable Tasks</title>
+      <link>https://sglitzinger.github.io/publication/ppl-2021/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sglitzinger.github.io/publication/ppl-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</title>
