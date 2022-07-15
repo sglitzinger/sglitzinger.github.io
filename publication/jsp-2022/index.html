@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="PhD student in computer science">
+  <meta name="description" content="Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA area and that achieves the required throughput and optimizes power consumption. For a soft real-time streaming application, modeled as a task graph with internally parallelizable streaming tasks, this requires assigning a core type and quantity and DVFS frequency level to each task, which implies task runtime and energy consumption, and mapping and scheduling the tasks, such that the throughput requirement is met. We tightly integrate such static scheduling for stream processing applications with design space exploration of the best heterogeneous core combination, and solve the resulting combined optimization problem by an integer linear program (ILP). We evaluate our solution for different numbers of core types on synthetic and application-based task graphs, and demonstrate improvements of up to 34.8% for ARM big and LITTLE cores, and 70.5% for 3 different core types.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sglitzinger.github.io/author/sebastian-litzinger/">
+  <link rel="alternate" hreflang="en-us" href="https://sglitzinger.github.io/publication/jsp-2022/">
 
   
 
@@ -254,14 +254,12 @@
   
 
   
-  <link rel="alternate" href="/author/sebastian-litzinger/index.xml" type="application/rss+xml" title="Sebastian Litzinger">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://sglitzinger.github.io/author/sebastian-litzinger/">
+  <link rel="canonical" href="https://sglitzinger.github.io/publication/jsp-2022/">
 
   
   
@@ -277,18 +275,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Sebastian Litzinger">
-  <meta property="og:url" content="https://sglitzinger.github.io/author/sebastian-litzinger/">
-  <meta property="og:title" content="Sebastian Litzinger | Sebastian Litzinger">
-  <meta property="og:description" content="PhD student in computer science"><meta property="og:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="https://sglitzinger.github.io/publication/jsp-2022/">
+  <meta property="og:title" content="Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms | Sebastian Litzinger">
+  <meta property="og:description" content="Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA area and that achieves the required throughput and optimizes power consumption. For a soft real-time streaming application, modeled as a task graph with internally parallelizable streaming tasks, this requires assigning a core type and quantity and DVFS frequency level to each task, which implies task runtime and energy consumption, and mapping and scheduling the tasks, such that the throughput requirement is met. We tightly integrate such static scheduling for stream processing applications with design space exploration of the best heterogeneous core combination, and solve the resulting combined optimization problem by an integer linear program (ILP). We evaluate our solution for different numbers of core types on synthetic and application-based task graphs, and demonstrate improvements of up to 34.8% for ARM big and LITTLE cores, and 70.5% for 3 different core types."><meta property="og:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2022-07-15T11:54:25&#43;02:00">
+    
+    <meta property="article:modified_time" content="2022-01-04T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sglitzinger.github.io/publication/jsp-2022/"
+  },
+  "headline": "Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms",
+  
+  "datePublished": "2022-07-15T11:54:25+02:00",
+  "dateModified": "2022-01-04T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jörg Keller"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sebastian Litzinger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA area and that achieves the required throughput and optimizes power consumption. For a soft real-time streaming application, modeled as a task graph with internally parallelizable streaming tasks, this requires assigning a core type and quantity and DVFS frequency level to each task, which implies task runtime and energy consumption, and mapping and scheduling the tasks, such that the throughput requirement is met. We tightly integrate such static scheduling for stream processing applications with design space exploration of the best heterogeneous core combination, and solve the resulting combined optimization problem by an integer linear program (ILP). We evaluate our solution for different numbers of core types on synthetic and application-based task graphs, and demonstrate improvements of up to 34.8% for ARM big and LITTLE cores, and 70.5% for 3 different core types."
+}
+</script>
+
+  
 
   
 
@@ -296,10 +337,13 @@
   
 
 
+  
 
 
 
-  <title>Sebastian Litzinger | Sebastian Litzinger</title>
+
+
+  <title>Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms | Sebastian Litzinger</title>
 
 </head>
 
@@ -712,22 +756,7 @@
 
 
 
-  
-
-
-
-
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-      
-      
-      
-      
-
-
-
+  <div class="pub">
 
   
 
@@ -740,144 +769,343 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
-      
-      
-      <img class="avatar avatar-circle" src="/author/sebastian-litzinger/avatar_hubca0e478ef54930910bb64dea7cdc28f_421620_270x270_fill_q90_lanczos_center.jpg" alt="Sebastian Litzinger">
-      
 
-      <div class="portrait-title">
-        <h2>Sebastian Litzinger</h2>
-        <h3>PhD student in computer science</h3>
+  
 
-        
-        <h3>
-          <a href="http://www.fernuni-hagen.de" target="_blank" rel="noopener">
-          <span>FernUniversität in Hagen</span>
-          </a>
-        </h3>
-        
-      </div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms</h1>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/#contact" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="/files/Sebastian_Litzinger_CV.pdf" >
-            <i class="ai ai-cv big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
+  
 
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
-
-    
+  
     
 
-    <p>I am a PhD student in the <a href="https://www.fernuni-hagen.de/pv">Parallelism &amp; VLSI group</a> under supervision of <a href="https://www.fernuni-hagen.de/pv/mitarbeitende/joerg.keller.shtml">Jörg Keller</a> at FernUniversität in Hagen.</p>
-<p>In my research, I am concerned with energy-efficient multicore scheduling and the application of machine learning techniques to scheduling problems. Furthermore, I am interested in neural architecture search, in particular based on metaheuristics.</p>
 
+<div class="article-metadata">
 
-    <div class="row">
+  
+  
+  
+  
+  <div>
+    
 
-      
-      <div class="col-md-5">
-        <h3>Interests</h3>
-        <ul class="ul-interests">
-          
-          <li>energy-efficient multicore scheduling</li>
-          
-          <li>machine learning for scheduling problems</li>
-          
-          <li>neural architecture search</li>
-          
-        </ul>
-      </div>
-      
-
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">PhD in computer science, 2018–present</p>
-              <p class="institution">FernUniversität in Hagen</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MSc in practical computer science, 2018</p>
-              <p class="institution">FernUniversität in Hagen</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">MA in philosophy, 2015</p>
-              <p class="institution">Eberhard Karls Universität Tübingen</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">BA in philosophy, 2009</p>
-              <p class="institution">Universität Hamburg</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
-      
-
-    </div>
+  
+  <span ><a href="/author/jorg-keller/">Jörg Keller</a></span>, <span ><a href="/author/sebastian-litzinger/">Sebastian Litzinger</a></span>, <span ><a href="/author/christoph-kessler/">Christoph Kessler</a></span>
   </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
 </div>
 
     
 
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
     
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://link.springer.com/content/pdf/10.1007/s11265-022-01787-y.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/jsp-2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/https://doi.org/10.1007/s11265-022-01787-y" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA area and that achieves the required throughput and optimizes power consumption. For a soft real-time streaming application, modeled as a task graph with internally parallelizable streaming tasks, this requires assigning a core type and quantity and DVFS frequency level to each task, which implies task runtime and energy consumption, and mapping and scheduling the tasks, such that the throughput requirement is met. We tightly integrate such static scheduling for stream processing applications with design space exploration of the best heterogeneous core combination, and solve the resulting combined optimization problem by an integer linear program (ILP). We evaluate our solution for different numbers of core types on synthetic and application-based task graphs, and demonstrate improvements of up to 34.8% for ARM big and LITTLE cores, and 70.5% for 3 different core types.</p>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Journal of Signal Processing Systems</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/publication/">publication</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://sglitzinger.github.io/publication/jsp-2022/&amp;text=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://sglitzinger.github.io/publication/jsp-2022/&amp;t=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms&amp;body=https://sglitzinger.github.io/publication/jsp-2022/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://sglitzinger.github.io/publication/jsp-2022/&amp;title=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms%20https://sglitzinger.github.io/publication/jsp-2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://sglitzinger.github.io/publication/jsp-2022/&amp;title=Integrating%20Energy-Optimizing%20Scheduling%20of%20Moldable%20Streaming%20Tasks%20with%20Design%20Space%20Exploration%20for%20Multiple%20Core%20Types%20on%20Configurable%20Platforms" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/jsspp-2021/">Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</a></li>
+      
+      <li><a href="/publication/arc-2021/">Combining Design Space Exploration with Task Scheduling of Moldable Streaming Tasks on Reconfigurable Platforms</a></li>
+      
+      <li><a href="/publication/pdp-2020-jsa/">Crown-scheduling of sets of parallelizable tasks for robustness and energy-elasticity on many-core systems with discrete dynamic voltage and frequency scaling</a></li>
+      
+      <li><a href="/publication/eusipco-2019/">Scheduling Moldable Parallel Streaming Tasks on Heterogeneous Platforms with Frequency Scaling</a></li>
+      
+      <li><a href="/publication/europar-2019/">Adaptive Crown Scheduling for Streaming Tasks on Many-Core Systems with Discrete DVFS</a></li>
+      
+    </ul>
   </div>
-</section>
+  
+
+
+
+
+
+  </div>
+</div>
 
       
 
