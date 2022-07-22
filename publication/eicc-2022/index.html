@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="PhD student in computer science">
+  <meta name="description" content="Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite a proposal to cure this weakness via controlled randomness including backward compatibility, the protocol description is not updated. We investigate if lack of bandwidth, i.e., lack of applicability, could be a reason not to care for such an update. Moreover, we give examples of other authentication protocols that might suffer from a similar weakness, and that possibly might profit from a similar cure, thus indicating necessity of further research.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://sglitzinger.github.io/tag/publication/">
+  <link rel="alternate" hreflang="en-us" href="https://sglitzinger.github.io/publication/eicc-2022/">
 
   
 
@@ -254,14 +254,12 @@
   
 
   
-  <link rel="alternate" href="/tag/publication/index.xml" type="application/rss+xml" title="Sebastian Litzinger">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://sglitzinger.github.io/tag/publication/">
+  <link rel="canonical" href="https://sglitzinger.github.io/publication/eicc-2022/">
 
   
   
@@ -277,18 +275,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Sebastian Litzinger">
-  <meta property="og:url" content="https://sglitzinger.github.io/tag/publication/">
-  <meta property="og:title" content="publication | Sebastian Litzinger">
-  <meta property="og:description" content="PhD student in computer science"><meta property="og:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
+  <meta property="og:url" content="https://sglitzinger.github.io/publication/eicc-2022/">
+  <meta property="og:title" content="Kleptography in Authentication Protocols: Why is it Still Possible? | Sebastian Litzinger">
+  <meta property="og:description" content="Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite a proposal to cure this weakness via controlled randomness including backward compatibility, the protocol description is not updated. We investigate if lack of bandwidth, i.e., lack of applicability, could be a reason not to care for such an update. Moreover, we give examples of other authentication protocols that might suffer from a similar weakness, and that possibly might profit from a similar cure, thus indicating necessity of further research."><meta property="og:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-01-05T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2022-07-22T16:07:14&#43;02:00">
+    
+    <meta property="article:modified_time" content="2022-01-05T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://sglitzinger.github.io/publication/eicc-2022/"
+  },
+  "headline": "Kleptography in Authentication Protocols: Why is it Still Possible?",
+  
+  "datePublished": "2022-07-22T16:07:14+02:00",
+  "dateModified": "2022-01-05T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Carina Heßeling"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Sebastian Litzinger",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://sglitzinger.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite a proposal to cure this weakness via controlled randomness including backward compatibility, the protocol description is not updated. We investigate if lack of bandwidth, i.e., lack of applicability, could be a reason not to care for such an update. Moreover, we give examples of other authentication protocols that might suffer from a similar weakness, and that possibly might profit from a similar cure, thus indicating necessity of further research."
+}
+</script>
+
+  
 
   
 
@@ -296,10 +337,13 @@
   
 
 
+  
 
 
 
-  <title>publication | Sebastian Litzinger</title>
+
+
+  <title>Kleptography in Authentication Protocols: Why is it Still Possible? | Sebastian Litzinger</title>
 
 </head>
 
@@ -712,173 +756,349 @@
 
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Kleptography in Authentication Protocols: Why is it Still Possible?</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>publication</h1>
+
+
+<div class="article-metadata">
 
   
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/carina-he%C3%9Feling/">Carina Heßeling</a></span>, <span ><a href="/author/jorg-keller/">Jörg Keller</a></span>, <span ><a href="/author/sebastian-litzinger/">Sebastian Litzinger</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/eicc-2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/https://doi.org/10.1145/3528580.3532998" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite a proposal to cure this weakness via controlled randomness including backward compatibility, the protocol description is not updated. We investigate if lack of bandwidth, i.e., lack of applicability, could be a reason not to care for such an update. Moreover, we give examples of other authentication protocols that might suffer from a similar weakness, and that possibly might profit from a similar cure, thus indicating necessity of further research.</p>
     
-    
-    <div>
-      <h2><a href="/publication/eicc-2022/" >Kleptography in Authentication Protocols: Why is it Still Possible?</a></h2>
-      <div class="article-style">
-        
-          Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/jsp-2022/" >Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms</a></h2>
-      <div class="article-style">
-        
-          Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/resilience-2021/" >Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures</a></h2>
-      <div class="article-style">
-        
-          Real-time applications often take the form of streaming applications, where a stream of inputs such as camera images is processed by an application represented as a task graph. The workload together with the required throughput often necessitates …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/jpdc-2022/" >Systematic Search Space Design for Energy-Efficient Static Scheduling of Moldable Tasks</a></h2>
-      <div class="article-style">
-        
-          Static scheduling of independent, moldable tasks on parallel machines with frequency scaling comprises decisions on core allocation, assignment, frequency scaling and ordering, to meet a deadline and minimize energy consumption. Constraining some of …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/bwlquam-4/" >Combining efficiency and scaling effects in activity analysis: towards an improved best practice criterion</a></h2>
-      <div class="article-style">
-        
-          Efficiency is the main issue in any data envelopment analysis. Realizing output by a minimum of input or reaching a maximum of output by a given input is the credo, scale effects often are only a sort of accessory. In modern economics scale effects …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/ppl-2021/" >Effects of Continuous vs Discrete Frequency Scaling and Core Allocation on Energy Efficiency of Static Schedules for Moldable Tasks</a></h2>
-      <div class="article-style">
-        
-          Models for energy-efficient static scheduling of parallelizable tasks with deadlines on frequency-scalable parallel machines comprise moldable vs. malleable tasks and continuous vs. discrete frequency levels, plus preemptive vs. non-preemptive task …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/jsspp-2021/" >Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</a></h2>
-      <div class="article-style">
-        
-          We consider the problem of energy-optimally mapping a set of moldable-parallel tasks in the steady-state pattern of a software-pipelined streaming computation onto a generic many-core CPU architecture with a 2D mesh geometry, where the execution …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/arc-2021/" >Combining Design Space Exploration with Task Scheduling of Moldable Streaming Tasks on Reconfigurable Platforms</a></h2>
-      <div class="article-style">
-        
-          Design space exploration can be used to find a power-efficient architectural design for a given application, such as the best suited configuration of a heterogeneous system from soft cores of different types, given area and throughput constraints. We …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/bwlquam-3/" >Analysing terrorist networks -- An entropy-driven method</a></h2>
-      <div class="article-style">
-        
-          Terrorism is a scourge of humanity. Thousands of people were killed by terrorists in the last years. To understand the structure, information flow and leadership in terrorist cells is a must for all societies to prevent future attacks. Network theory …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/pdp-2020-jsa/" >Crown-scheduling of sets of parallelizable tasks for robustness and energy-elasticity on many-core systems with discrete dynamic voltage and frequency scaling</a></h2>
-      <div class="article-style">
-        
-          Crown scheduling is a static scheduling approach for sets of parallelizable tasks with a common deadline, aiming to minimize energy consumption on parallel processors with frequency scaling. We demonstrate that crown schedules are robust, i.e. that …
-        
-      </div>
-    </div>
-  
 
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Proceedings of the European Interdisciplinary Cybersecurity Conference (EICC)</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
   
-<nav>
-  <ul class="pagination justify-content-center">
+  <a class="badge badge-light" href="/tag/publication/">publication</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://sglitzinger.github.io/publication/eicc-2022/&amp;text=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
-    <li class="page-item"><a class="page-link" href="/tag/publication/page/2/">&raquo;</a></li>
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://sglitzinger.github.io/publication/eicc-2022/&amp;t=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?&amp;body=https://sglitzinger.github.io/publication/eicc-2022/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://sglitzinger.github.io/publication/eicc-2022/&amp;title=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?%20https://sglitzinger.github.io/publication/eicc-2022/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://sglitzinger.github.io/publication/eicc-2022/&amp;title=Kleptography%20in%20Authentication%20Protocols:%20Why%20is%20it%20Still%20Possible?" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/jsp-2022/">Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms</a></li>
+      
+      <li><a href="/publication/resilience-2021/">Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures</a></li>
+      
+      <li><a href="/publication/ppl-2021/">Effects of Continuous vs Discrete Frequency Scaling and Core Allocation on Energy Efficiency of Static Schedules for Moldable Tasks</a></li>
+      
+      <li><a href="/publication/jpdc-2022/">Systematic Search Space Design for Energy-Efficient Static Scheduling of Moldable Tasks</a></li>
+      
+      <li><a href="/publication/jsspp-2021/">Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
 
       
