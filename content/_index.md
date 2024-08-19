@@ -72,7 +72,7 @@ sections:
           - publication
         featured_only: false
     design:
-      view: list
+      view: citation
   - block: collection
     id: talks
     content:
@@ -90,8 +90,8 @@ sections:
       filters:
         folders:
           - poster
-    design:
-      view: list
+    #design:
+      #view: list
       #columns: 1
   - block: markdown
     id: events
