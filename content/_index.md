@@ -81,8 +81,8 @@ sections:
         folders:
           - event
     design:
-      view: card
-      #columns: 1
+      view: article-grid
+      columns: 1
   - block: collection
     id: posters
     content:
@@ -91,7 +91,7 @@ sections:
         folders:
           - poster
     design:
-      view: compact
+      view: date-title-summary
       #columns: 1
   - block: markdown
     id: events
