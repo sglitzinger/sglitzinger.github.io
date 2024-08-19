@@ -80,8 +80,8 @@ sections:
       filters:
         folders:
           - event
-    #design:
-      #view: list
+    design:
+      view: card
       #columns: 1
   - block: collection
     id: posters
@@ -90,8 +90,8 @@ sections:
       filters:
         folders:
           - poster
-    #design:
-      #view: list
+    design:
+      view: compact
       #columns: 1
   - block: markdown
     id: events
