@@ -98,7 +98,7 @@ sections:
     content:
       title: 'Event Attendances'
       subtitle: ''
-      text:
+      text: |-
         - **GI Sicherheit 2024**, Worms, Germany
         - **HPCC 2023**, Melbourne, Australia
         - **eScience 2023**, Limassol, Cyprus
@@ -131,10 +131,10 @@ sections:
     content:
       title: 'Teaching'
       subtitle: ''
-      text:
-      At FernUniversität in Hagen, I serve as a teaching assistant for courses on parallel computing, simulation, and computer engineering. Moreover, I take part in supervising bachelor and master theses on topics related to parallel computing.
+      text: |-
+        At FernUniversität in Hagen, I serve as a teaching assistant for courses on parallel computing, simulation, and computer engineering. Moreover, I take part in supervising bachelor and master theses on topics related to parallel computing.
 
-      As a philosophy student, I have worked as a teaching assistant for introductory courses on logic at Universität Hamburg and at Eberhard Karls Universität Tübingen.
+        As a philosophy student, I have worked as a teaching assistant for introductory courses on logic at Universität Hamburg and at Eberhard Karls Universität Tübingen.
     design:
       columns: '1'
   # - block: collection
