@@ -8,6 +8,53 @@ design:
   # Default section spacing
   spacing: "6rem"
 
+cascade:
+  # Configure publications
+  - _target:
+      path: /publication/**
+    show_date: false
+    profile: false
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: true
+    header:
+      navbar:
+        enable: false
+  # Configure talks
+  - _target:
+      path: /event/**
+    show_date: true
+    profile: false
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: true
+    header:
+      navbar:
+        enable: false
+  # Configure posters
+  - _target:
+      path: /poster/**
+    show_date: true
+    profile: false
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: false
+    show_breadcrumb: false
+    share: true
+    header:
+      navbar:
+        enable: false
+
 sections:
   - block: resume-biography-3
     content:
