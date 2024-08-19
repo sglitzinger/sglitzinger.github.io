@@ -32,7 +32,8 @@ title = "Raising Energy Efficiency and Fault Tolerance with Parallel Streaming A
 type = "PhD dissertation",
 institution = "FernUniversität in Hagen, Germany",
 year = "2023",
-url = "https://doi.org/10.18445/20231102-135835-0"
+url = "https://doi.org/10.18445/20231102-135835-0",
+doi = "10.18445/20231102-135835-0"
 }
 
 @inproceedings{escience2023,
@@ -118,7 +119,7 @@ year="2022",
 publisher="Springer International Publishing",
 address="Cham",
 pages="322--333",
-doi="https://doi.org/10.1007/978-3-031-06156-1_26",
+doi="10.1007/978-3-031-06156-1_26",
 abstract="Real-time applications often take the form of streaming applications, where a stream of inputs such as camera images is processed by an application represented as a task graph. The workload together with the required throughput often necessitates processing on a multicore system and also demands parallelization of large tasks. We extend a scheduling algorithm for such applications, originally devised to handle varying task workloads, to also cover varying core count, e.g. caused by failure of a core. We use frequency scaling to accelerate processing when the necessity to re-execute tasks from the crashed core arises, to maintain throughput. We evaluate the algorithm by scheduling synthetic task graphs that represent corner cases and a real streaming application.",
 isbn="978-3-031-06156-1"
 }
@@ -130,14 +131,14 @@ volume = {162},
 pages = {44-58},
 year = {2022},
 issn = {0743-7315},
-doi = {https://doi.org/10.1016/j.jpdc.2022.01.004},
+doi = {10.1016/j.jpdc.2022.01.004},
 url = {https://www.sciencedirect.com/science/article/pii/S0743731522000107},
 author = {Jörg Keller and Sebastian Litzinger},
 keywords = {Static scheduling, Energy efficiency, Moldable tasks},
 abstract = {Static scheduling of independent, moldable tasks on parallel machines with frequency scaling comprises decisions on core allocation, assignment, frequency scaling and ordering, to meet a deadline and minimize energy consumption. Constraining some of these decisions reduces the solution space, i.e. may increase energy consumption, but may also open the path to new, near-optimal approaches. We investigate how constraints of different steps influence energy consumption, starting with an unrestricted scheduler for moldable tasks. The constraints are partly derived from existing schedulers, but also generalized in a systematic way. We present integer linear programs for all scheduling variants. We compare energy consumption of schedules for a benchmark suite of synthetic task sets of different sizes and for task sets derived from real applications. In addition, we check how close the results are to the optimum results when the ILP solver meets a timeout. Our results indicate that constraints on task execution order, which avoid explicit representation of task order in ILPs, are mostly responsible for near-optimal energy consumption among large task sets. Furthermore, we find that for all steps except allocation, non-optimal fast heuristics can be used without sacrificing too much energy for the resulting schedule. Finally, we can show that an ILP for a new scheduler, for which also a heuristic version exists, is comparable in quality to more complicated schedulers.}
 }
 
-@article{rairo2022,
+@article{bwlquam4,
 	author = {{R\"odder, Wilhelm} and {Dellnitz, Andreas} and {Litzinger, Sebastian}},
 	title = {Combining efficiency and scaling effects in activity analysis: towards an improved best practice criterion},
 	DOI= "10.1051/ro/2022038",
@@ -174,7 +175,7 @@ address="Cham",
 pages="168--189",
 abstract="We consider the problem of energy-optimally mapping a set of moldable-parallel tasks in the steady-state pattern of a software-pipelined streaming computation onto a generic many-core CPU architecture with a 2D mesh geometry, where the execution voltage and frequency levels of the cores can be selected dynamically from a given set of discrete DVFS levels. We extend the Crown Scheduling technique for parallelizable tasks to temperature-aware scheduling, taking into account the tasks' heat generation, the heat limit for each core, and the heat diffusion along the 2D mesh geometry of typical many-core CPU architectures. Our approach introduces a systematic method for alternating task executions between disjoint ``buddy'' core groups in subsequent iterations of crown schedules to avoid long-time overheating of cores. We present two integer linear program (ILP) solutions with different degrees of flexibility, and show that these can be solved for realistic problem sizes with today's ILP solver technology. Experiments with several streaming task graphs derived from real-world applications show that the flexibility for the scheduler can be greatly increased by considering buddy-cores, thus finding feasible solutions in scenarios that could not be solved otherwise. We also present a fast heuristic for the same problem.",
 isbn="978-3-030-88224-2",
-doi="https://doi.org/10.1007/978-3-030-88224-2_9",
+doi="10.1007/978-3-030-88224-2_9",
 url="https://link.springer.com/chapter/10.1007/978-3-030-88224-2_9"
 }
 
@@ -189,7 +190,7 @@ address={Cham},
 pages={93--107},
 abstract={Design space exploration can be used to find a power-efficient architectural design for a given application, such as the best suited configuration of a heterogeneous system from soft cores of different types, given area and throughput constraints. We show how to integrate design space exploration into a static scheduling algorithm for a streaming task graph application with parallelizable tasks and solve the resulting combined optimization problem by an integer linear program (ILP). We demonstrate the improvements by our strategy with ARM big and LITTLE soft cores and synthetic task graphs.},
 isbn={978-3-030-79025-7},
-doi={https://doi.org/10.1007/978-3-030-79025-7_7},
+doi={10.1007/978-3-030-79025-7_7},
 url={https://link.springer.com/chapter/10.1007/978-3-030-79025-7_7}
 }
 
@@ -201,7 +202,7 @@ volume = {39},
 number = {10},
 pages = {e12720},
 keywords = {9/11 attack, Bali attack, entropy, knowledge processing, network analysis, terrorism},
-doi = {https://doi.org/10.1111/exsy.12720},
+doi = {10.1111/exsy.12720},
 url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12720},
 eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.12720},
 abstract = {Abstract Terrorism is a scourge of humanity. Thousands of people were killed by terrorists in the last years. To understand the structure, information flow and leadership in terrorist cells is a must for all societies to prevent future attacks. Network theory can help to model such cells and to identify leading members therein. This contribution uses the graph theoretical approach as a basis and enriches it by an entropy-driven knowledge processing. After presenting the theoretical concept two terrorist cells, the one of the Bali attack and the one of the 9/11 attack, are analysed. The results are compared to those of other methods. A preview on the application of weighted networks and multi-nets complements the new findings.}
@@ -228,7 +229,7 @@ volume = {n/a},
 number = {n/a},
 pages = {e6072},
 keywords = {dynamic task structure, energy-efficient code generation, parallel platform, streaming task graph},
-doi = {https://doi.org/10.1002/cpe.6072},
+doi = {10.1002/cpe.6072},
 url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6072},
 eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6072},
 abstract = {Summary Streaming task graphs are high-level specifications for parallel applications operating on streams of data. For a static task graph structure, static schedulers can be used to map the tasks onto a parallel platform to minimize energy consumption for given throughput. We introduce dynamic elements into the task graph structure, thus specifying applications which adapt behavior at runtime, for example, switching from check-only to active mode. This in turn necessitates a runtime system that can remap tasks and potentially adapt their degree of parallelism in case of a dynamic change of the task structure. We provide a toolchain and evaluate our prototype with streaming task graphs both synthetic and from a real application. We find that we meet throughput requirements with <3.5% energy overhead on average compared with an optimal static scheduler based on integer linear programming. Runtime overhead for remapping is negligible and application runtime and energy are accurately predicted. We also outline how to extend our system to a heterogeneous platform.}

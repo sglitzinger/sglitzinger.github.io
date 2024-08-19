@@ -4,12 +4,12 @@ title: Systematic search space design for energy-efficient static scheduling of 
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-01'
+date: '2022-01-02'
 publishDate: '2024-08-19T12:43:31.528532Z'
 publication_types:
 - article-journal
 publication: '*Journal of Parallel and Distributed Computing*'
-doi: https://doi.org/10.1016/j.jpdc.2022.01.004
+doi: 10.1016/j.jpdc.2022.01.004
 abstract: Static scheduling of independent, moldable tasks on parallel machines with
   frequency scaling comprises decisions on core allocation, assignment, frequency
   scaling and ordering, to meet a deadline and minimize energy consumption. Constraining
@@ -28,10 +28,6 @@ abstract: Static scheduling of independent, moldable tasks on parallel machines 
   used without sacrificing too much energy for the resulting schedule. Finally, we
   can show that an ILP for a new scheduler, for which also a heuristic version exists,
   is comparable in quality to more complicated schedulers.
-tags:
-- Static scheduling
-- Energy efficiency
-- Moldable tasks
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0743731522000107

@@ -4,12 +4,12 @@ title: Code generation for energy-efficient execution of dynamic streaming task 
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: -01-01
+date: '2020-01-07'
 publishDate: '2024-08-19T12:43:31.588427Z'
 publication_types:
 - article-journal
 publication: '*Concurrency and Computation: Practice and Experience*'
-doi: https://doi.org/10.1002/cpe.6072
+doi: 10.1002/cpe.6072
 abstract: Summary Streaming task graphs are high-level specifications for parallel
   applications operating on streams of data. For a static task graph structure, static
   schedulers can be used to map the tasks onto a parallel platform to minimize energy
@@ -23,11 +23,6 @@ abstract: Summary Streaming task graphs are high-level specifications for parall
   compared with an optimal static scheduler based on integer linear programming. Runtime
   overhead for remapping is negligible and application runtime and energy are accurately
   predicted. We also outline how to extend our system to a heterogeneous platform.
-tags:
-- dynamic task structure
-- energy-efficient code generation
-- parallel platform
-- streaming task graph
 links:
 - name: URL
   url: https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6072

@@ -5,12 +5,12 @@ authors:
 - Jörg Keller
 - Sebastian Litzinger
 - Christoph Kessler
-date: '2021-01-01'
+date: '2021-01-03'
 publishDate: '2024-08-19T12:43:31.556284Z'
 publication_types:
 - paper-conference
-publication: '*Applied Reconfigurable Computing. Architectures, Tools, and Applications*'
-doi: https://doi.org/10.1007/978-3-030-79025-7_7
+publication: '*Proceedings of the International Symposium on Applied Reconfigurable Computing (ARC)*'
+doi: 10.1007/978-3-030-79025-7_7
 abstract: Design space exploration can be used to find a power-efficient architectural
   design for a given application, such as the best suited configuration of a heterogeneous
   system from soft cores of different types, given area and throughput constraints.

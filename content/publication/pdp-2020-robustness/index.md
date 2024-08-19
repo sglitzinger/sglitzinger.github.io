@@ -5,7 +5,7 @@ authors:
 - Christoph Kessler
 - Sebastian Litzinger
 - Jörg Keller
-date: '2020-01-01'
+date: '2020-01-04'
 publishDate: '2024-08-19T12:43:31.616109Z'
 publication_types:
 - paper-conference

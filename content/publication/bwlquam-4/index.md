@@ -9,7 +9,7 @@ date: '2022-01-01'
 publishDate: '2024-08-19T12:43:31.535864Z'
 publication_types:
 - article-journal
-publication: '*RAIRO-Oper. Res.*'
+publication: '*RAIRO-Operations Research*'
 doi: 10.1051/ro/2022038
 links:
 - name: URL

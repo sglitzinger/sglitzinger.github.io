@@ -4,12 +4,12 @@ title: Energy-Efficient Execution of Streaming Task Graphs with Parallelizable T
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-01'
+date: '2022-01-03'
 publishDate: '2024-08-19T12:43:31.522166Z'
 publication_types:
 - paper-conference
 publication: '*Euro-Par 2021: Parallel Processing Workshops*'
-doi: https://doi.org/10.1007/978-3-031-06156-1_26
+doi: 10.1007/978-3-031-06156-1_26
 abstract: Real-time applications often take the form of streaming applications, where
   a stream of inputs such as camera images is processed by an application represented
   as a task graph. The workload together with the required throughput often necessitates

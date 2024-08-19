@@ -23,12 +23,6 @@ abstract: Crown scheduling is a static scheduling approach for sets of paralleli
   evaluate our approach with scheduling experiments on synthetic and application task
   sets. Finally, we consider influence of heterogeneous platforms such as ARM’s big.LITTLE
   on robustness.
-tags:
-- Adaptive task scheduling
-- Robustness of schedules
-- Moldable parallel tasks
-- Crown scheduling
-- Energy optimization
 links:
 - name: URL
   url: http://www.sciencedirect.com/science/article/pii/S1383762121000175

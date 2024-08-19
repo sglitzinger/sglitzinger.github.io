@@ -4,7 +4,7 @@ title: Generating Energy-Efficient Code for Parallel Applications Specified by S
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: '2020-01-01'
+date: '2020-01-03'
 publishDate: '2024-08-19T12:43:31.602796Z'
 publication_types:
 - paper-conference
@@ -28,9 +28,4 @@ abstract: Streaming task graphs are a high-level construct used to specify paral
   task graphs and compare our results to an optimal static scheduler based on integer
   linear programming. We find that our prototype is able to meet throughput requirements
   with <3.5% energy overhead on average compared to the optimal scheduler.
-tags:
-- parallel platform
-- dynamic task structure
-- streaming task graph
-- energy-efficient code generation
 ---

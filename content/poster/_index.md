@@ -1,10 +1,10 @@
 ---
-title: Talks
+title: Posters
 cms_exclude: true
 #url: talk
 
 # View
-view: card
+view: list
 
 # Optional cover image (relative to `assets/media/` folder).
 image:

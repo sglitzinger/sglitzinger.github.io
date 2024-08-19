@@ -4,7 +4,7 @@ authors:
 - Sebastian Litzinger
 - Oliver Körber
 - Jörg Keller
-date: '2019-01-01'
+date: '2019-01-04'
 publishDate: '2024-08-19T12:43:31.641738Z'
 publication_types:
 - paper-conference

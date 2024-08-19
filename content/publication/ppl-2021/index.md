@@ -4,7 +4,7 @@ title: Effects of Continuous vs Discrete Frequency Scaling and Core Allocation o
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: 0-01-01
+date: '2021-01-05'
 publishDate: '2024-08-19T12:43:31.542051Z'
 publication_types:
 - article-journal

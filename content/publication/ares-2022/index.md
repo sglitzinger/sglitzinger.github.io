@@ -4,7 +4,7 @@ authors:
 - Carina Heßeling
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-01'
+date: '2022-01-06'
 publishDate: '2024-08-19T12:43:31.500798Z'
 publication_types:
 - paper-conference
@@ -21,12 +21,6 @@ abstract: Higher-radix floating-point representations have the potential for hig
   channel is fully reversible, i.e., not detectable from the data. Experiments with
   an implementation illustrate that detectability via compressibility metric, Shannon
   entropy and bi-grams is possible depending on how aggressive bandwidth is pushed.
-tags:
-- sensor data transmission
-- number representation formats
-- network steganography
-- Pareto optimization
-- covert channel
 links:
 - name: URL
   url: https://doi.org/10.1145/3538969.3544429

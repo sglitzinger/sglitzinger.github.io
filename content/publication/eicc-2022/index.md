@@ -4,12 +4,11 @@ authors:
 - Carina Heßeling
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-01'
+date: '2022-01-05'
 publishDate: '2024-08-19T12:43:31.507864Z'
 publication_types:
 - paper-conference
-publication: '*EICC 2022: Proceedings of the European Interdisciplinary Cybersecurity
-  Conference*'
+publication: '*Proceedings of the European Interdisciplinary Cybersecurity Conference (EICC)*'
 doi: 10.1145/3528580.3532998
 abstract: Network authentication frequently relies on nonces, and even widely deployed
   protocols still rely on random nonces, although they might enable kleptography attacks.
@@ -20,11 +19,6 @@ abstract: Network authentication frequently relies on nonces, and even widely de
   we give examples of other authentication protocols that might suffer from a similar
   weakness, and that possibly might profit from a similar cure, thus indicating necessity
   of further research.
-tags:
-- network authentication
-- network steganography
-- covert channel
-- kleptography attack
 links:
 - name: URL
   url: https://doi.org/10.1145/3528580.3532998

@@ -5,12 +5,12 @@ authors:
 - Christoph Kessler
 - Jörg Keller
 - Sebastian Litzinger
-date: '2021-01-01'
+date: '2021-01-04'
 publishDate: '2024-08-19T12:43:31.549195Z'
 publication_types:
 - paper-conference
-publication: '*Job Scheduling Strategies for Parallel Processing*'
-doi: https://doi.org/10.1007/978-3-030-88224-2_9
+publication: '*Proceedings of the 24th Workshop on Job Scheduling Strategies for Parallel Processing*'
+doi: 10.1007/978-3-030-88224-2_9
 abstract: We consider the problem of energy-optimally mapping a set of moldable-parallel
   tasks in the steady-state pattern of a software-pipelined streaming computation
   onto a generic many-core CPU architecture with a 2D mesh geometry, where the execution
