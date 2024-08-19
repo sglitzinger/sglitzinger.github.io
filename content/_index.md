@@ -80,10 +80,10 @@ sections:
       filters:
         folders:
           - event
-    design:
-      view: list
+    #design:
+      #view: list
       #columns: 1
-    - block: collection
+  - block: collection
     id: posters
     content:
       title: Posters
