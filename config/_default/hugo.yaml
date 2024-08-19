@@ -74,6 +74,8 @@ cascade:
     header:
       navbar:
         enable: false
+
+cascade:
   # Configure talks
   - _target:
       path: /event/**
@@ -89,6 +91,8 @@ cascade:
     header:
       navbar:
         enable: false
+
+cascade:
   # Configure posters
   - _target:
       path: /poster/**
