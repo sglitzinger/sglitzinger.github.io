@@ -1,0 +1,403 @@
+@inproceedings{sac2024,
+author = {Boulasikis, Michail and Kessler, Christoph and Gruian, Flavius and Keller, Jörg and Litzinger, Sebastian},
+title = {Packet-Type Aware Scheduling of Moldable Streaming Tasks on Multicore Systems with DVFS},
+year = {2024},
+isbn = {9798400702433},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3605098.3636081},
+doi = {10.1145/3605098.3636081},
+abstract = {We introduce a novel approach for energy-efficient scheduling of data-dependent stream programs with packet types on multicore architectures with voltage and frequency scaling. To have the given application meet specific throughput demands while minimizing energy consumption, we enhance the existing crown scheduling by packet-type dependent parameters. Formulation as an integer linear program generates a parametric, multi-scenario crown schedule for table-driven execution. By inspecting the packet stream at runtime, our online scheduler selects the appropriate schedule and handles frequency levels. The performance of our technique is compared to crown scheduling with synthetic stream programs. Our results demonstrate an average energy reduction of 23.94\%.},
+booktitle = {Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+pages = {449–451},
+numpages = {3},
+location = {Avila, Spain},
+series = {SAC '24}
+}
+
+@inproceedings{hpcc2023,
+author={Litzinger, Sebastian},
+booktitle={2023 IEEE International Conference on High Performance Computing & Communications, Data Science & Systems, Smart City & Dependability in Sensor, Cloud & Big Data Systems & Application (HPCC/DSS/SmartCity/DependSys)}, 
+title={Heuristic Scheduling of Streaming Applications for Energy Efficiency on Heterogeneous Multicores}, 
+year={2023},
+volume={},
+number={},
+pages={225--232},
+doi={10.1109/HPCC-DSS-SmartCity-DependSys60770.2023.00039}
+}
+
+@phdthesis{dissertation2023,
+author = "Sebastian Litzinger",
+title = "Raising Energy Efficiency and Fault Tolerance with Parallel Streaming Application Scheduling on Multicore Systems",
+type = "PhD dissertation",
+institution = "FernUniversität in Hagen, Germany",
+year = "2023",
+url = "https://doi.org/10.18445/20231102-135835-0"
+}
+
+@inproceedings{escience2023,
+author = {He\ss{}eling, Carina and Keller, J\"{o}rg and Litzinger, Sebastian},
+title = {Reversible Network Covert Channel by Payload Modulation in Streams of Decimal Sensor Values},
+year = {2023},
+isbn = {9798350322231},
+publisher = {IEEE},
+url = {https://ieeexplore.ieee.org/document/10254946/},
+doi = {10.1109/e-Science58273.2023.10254946},
+abstract = {We investigate decimal number representations in large data streams. When decimal numbers are encoded in bits, not all possibilities are used. This opens possibilities to establish a covert channel, i.e., to inject secret data into the data stream and transport it hidden in the mass of data, which poses a security risk, as covert channels are mostly used for criminal purposes. We present a novel covert channel approach for streams of decimal data, a field which so far has been neglected. Moreover, we sketch an application scenario and analyze the covert channel's detectability, in particular how detectability and steganographic bandwidth can be traded against each other. The approach and proposals for detection are tested via simulation experiments.},
+booktitle = {Proceedings of the 19th IEEE International Conference on E-Science (e-Science)},
+numpages = {8},
+pages = {1--8},
+location = {Limassol, Cyprus}
+}
+
+@article{ieeeaccess2023,
+author = {Litzinger, Sebastian and Keller, Jörg and Kessler, Christoph},
+journal = {IEEE Access}, 
+title = {Packing Multiple Types of Cores for Energy-Optimized Heterogeneous Hardware-Software Co-Design of Moldable Streaming Computations}, 
+year = {2023},
+volume = {11},
+number = {},
+pages = {19301--19311},
+doi = {10.1109/ACCESS.2023.3248283}
+}
+
+@inproceedings{ares2022,
+author = {He\ss{}eling, Carina and Keller, J\"{o}rg and Litzinger, Sebastian},
+title = {Network Steganography Through Redundancy in Higher-Radix Floating-Point Representations},
+year = {2022},
+isbn = {9781450396707},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3538969.3544429},
+doi = {10.1145/3538969.3544429},
+abstract = {Higher-radix floating-point representations have the potential for higher performance, lower energy footprint, and reduced gate count in embedded systems when compared to traditional binary floating-point numbers. Thus, they might also appear in transmission of sensor data values. However, these number formats introduce redundancies, which can be exploited for steganographic message transfer. We present a covert channel that exploits this redundancy and can trade steganographic bandwidth against introduced error and thus detectability. In the basic variant, the covert channel is fully reversible, i.e., not detectable from the data. Experiments with an implementation illustrate that detectability via compressibility metric, Shannon entropy and bi-grams is possible depending on how aggressive bandwidth is pushed.},
+booktitle = {Proceedings of the 17th International Conference on Availability, Reliability and Security},
+articleno = {48},
+numpages = {7},
+keywords = {sensor data transmission, number representation formats, network steganography, Pareto optimization, covert channel},
+location = {Vienna, Austria},
+series = {ARES '22}
+}
+
+@inproceedings{eicc2022,
+author = {He\ss{}eling, Carina and Keller, J\"{o}rg and Litzinger, Sebastian},
+title = {Kleptography in Authentication Protocols: Why is It Still Possible?},
+year = {2022},
+isbn = {9781450396035},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3528580.3532998},
+doi = {10.1145/3528580.3532998},
+abstract = {Network authentication frequently relies on nonces, and even widely deployed protocols still rely on random nonces, although they might enable kleptography attacks. Notably, for TLS a kleptography-based covert channel has been published, and despite a proposal to cure this weakness via controlled randomness including backward compatibility, the protocol description is not updated. We investigate if lack of bandwidth, i.e., lack of applicability, could be a reason not to care for such an update. Moreover, we give examples of other authentication protocols that might suffer from a similar weakness, and that possibly might profit from a similar cure, thus indicating necessity of further research.},
+booktitle = {EICC 2022: Proceedings of the European Interdisciplinary Cybersecurity Conference},
+pages = {109--110},
+numpages = {2},
+keywords = {network authentication, network steganography, covert channel, kleptography attack},
+location = {Barcelona, Spain},
+series = {EICC 2022}
+}
+
+@article{jsp2022,
+title = {Integrating Energy-Optimizing Scheduling of Moldable Streaming Tasks with Design Space Exploration for Multiple Core Types on Configurable Platforms},
+journal = {Journal of Signal Processing Systems},
+volume = {},
+pages = {},
+year = {2022},
+doi = {10.1007/s11265-022-01787-y},
+url = {https://doi.org/10.1007/s11265-022-01787-y},
+author = {Jörg Keller and Sebastian Litzinger and Christoph Kessler},
+abstract = {Design space exploration of a configurable, heterogeneous system for a given application with required throughput searches for a combination of cores or softcores with different architectures that can be accommodated within the given ASIC or FPGA area and that achieves the required throughput and optimizes power consumption. For a soft real-time streaming application, modeled as a task graph with internally parallelizable streaming tasks, this requires assigning a core type and quantity and DVFS frequency level to each task, which implies task runtime and energy consumption, and mapping and scheduling the tasks, such that the throughput requirement is met. We tightly integrate such static scheduling for stream processing applications with design space exploration of the best heterogeneous core combination, and solve the resulting combined optimization problem by an integer linear program (ILP). We evaluate our solution for different numbers of core types on synthetic and application-based task graphs, and demonstrate improvements of up to 34.8% for ARM big and LITTLE cores, and 70.5% for 3 different core types.}
+}
+
+@InProceedings{resilience2021,
+author="Keller, J{\"o}rg and Litzinger, Sebastian",
+editor="Chaves, Ricardo and B. Heras, Dora and Ilic, Aleksandar and Unat, Didem and Badia, Rosa M. and Bracciali, Andrea and Diehl, Patrick and Dubey, Anshu and Sangyoon, Oh and L. Scott, Stephen and Ricci, Laura",
+title="Energy-Efficient Execution of Streaming Task Graphs with Parallelizable Tasks on Multicore Platforms with Core Failures",
+booktitle="Euro-Par 2021: Parallel Processing Workshops",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="322--333",
+doi="https://doi.org/10.1007/978-3-031-06156-1_26",
+abstract="Real-time applications often take the form of streaming applications, where a stream of inputs such as camera images is processed by an application represented as a task graph. The workload together with the required throughput often necessitates processing on a multicore system and also demands parallelization of large tasks. We extend a scheduling algorithm for such applications, originally devised to handle varying task workloads, to also cover varying core count, e.g. caused by failure of a core. We use frequency scaling to accelerate processing when the necessity to re-execute tasks from the crashed core arises, to maintain throughput. We evaluate the algorithm by scheduling synthetic task graphs that represent corner cases and a real streaming application.",
+isbn="978-3-031-06156-1"
+}
+
+@article{jpdc2022,
+title = {Systematic search space design for energy-efficient static scheduling of moldable tasks},
+journal = {Journal of Parallel and Distributed Computing},
+volume = {162},
+pages = {44-58},
+year = {2022},
+issn = {0743-7315},
+doi = {https://doi.org/10.1016/j.jpdc.2022.01.004},
+url = {https://www.sciencedirect.com/science/article/pii/S0743731522000107},
+author = {Jörg Keller and Sebastian Litzinger},
+keywords = {Static scheduling, Energy efficiency, Moldable tasks},
+abstract = {Static scheduling of independent, moldable tasks on parallel machines with frequency scaling comprises decisions on core allocation, assignment, frequency scaling and ordering, to meet a deadline and minimize energy consumption. Constraining some of these decisions reduces the solution space, i.e. may increase energy consumption, but may also open the path to new, near-optimal approaches. We investigate how constraints of different steps influence energy consumption, starting with an unrestricted scheduler for moldable tasks. The constraints are partly derived from existing schedulers, but also generalized in a systematic way. We present integer linear programs for all scheduling variants. We compare energy consumption of schedules for a benchmark suite of synthetic task sets of different sizes and for task sets derived from real applications. In addition, we check how close the results are to the optimum results when the ILP solver meets a timeout. Our results indicate that constraints on task execution order, which avoid explicit representation of task order in ILPs, are mostly responsible for near-optimal energy consumption among large task sets. Furthermore, we find that for all steps except allocation, non-optimal fast heuristics can be used without sacrificing too much energy for the resulting schedule. Finally, we can show that an ILP for a new scheduler, for which also a heuristic version exists, is comparable in quality to more complicated schedulers.}
+}
+
+@article{rairo2022,
+	author = {{R\"odder, Wilhelm} and {Dellnitz, Andreas} and {Litzinger, Sebastian}},
+	title = {Combining efficiency and scaling effects in activity analysis: towards an improved best practice criterion},
+	DOI= "10.1051/ro/2022038",
+	url= "https://doi.org/10.1051/ro/2022038",
+	journal = {RAIRO-Oper. Res.},
+	year = 2022,
+	volume = 56,
+	number = 2,
+	pages = "795-812",
+}
+
+@article{ppl2021,
+author = {Litzinger, Sebastian and Keller, J\"{o}rg},
+title = {Effects of Continuous vs Discrete Frequency Scaling and Core Allocation on Energy Efficiency of Static Schedules for Moldable Tasks},
+journal = {Parallel Processing Letters},
+volume = {0},
+number = {0},
+pages = {2150025},
+year = {0},
+doi = {10.1142/S0129626421500250},
+URL = {https://doi.org/10.1142/S0129626421500250},
+eprint = {https://doi.org/10.1142/S0129626421500250},
+abstract = { Models for energy-efficient static scheduling of parallelizable tasks with deadlines on frequency-scalable parallel machines comprise moldable vs. malleable tasks and continuous vs. discrete frequency levels, plus preemptive vs. non-preemptive task execution with or without task migration. We investigate the tradeoff between scheduling time and energy efficiency when going from continuous to discrete core allocation and frequency levels on a multicore processor, and from preemptive to non-preemptive task execution. To this end, we present a tool to convert a schedule computed for malleable tasks on machines with continuous frequency scaling [Sanders and Speck, Euro-Par (2012)] into one for moldable tasks on a machine with discrete frequency levels. We compare the energy efficiency of the converted schedule to the energy consumed by a schedule produced by the integrated crown scheduler [Melot et al., ACM TACO (2015)] for moldable tasks and a machine with discrete frequency levels. Our experiments with synthetic and application-based task sets indicate that the converted Sanders Speck schedules, while computed faster, consume more energy on average than crown schedules. Surprisingly, it is not the step from malleable to moldable tasks that is responsible but the step from continuous to discrete frequency levels. One-time frequency scaling during a task’s execution can compensate for most of the energy overhead caused by frequency discretization. }
+}
+
+@InProceedings{jsspp2021,
+author="Christoph Kessler and J{\"o}rg Keller and Sebastian Litzinger",
+editor="Dalibor Klus{\'a}{\v{c}}ek and Walfredo Cirne and Gonzalo P. Rodrigo",
+title="Temperature-Aware Energy-Optimal Scheduling of Moldable Streaming Tasks onto 2D-Mesh-Based Many-Core CPUs with DVFS",
+booktitle="Job Scheduling Strategies for Parallel Processing",
+year="2021",
+publisher="Springer International Publishing",
+address="Cham",
+pages="168--189",
+abstract="We consider the problem of energy-optimally mapping a set of moldable-parallel tasks in the steady-state pattern of a software-pipelined streaming computation onto a generic many-core CPU architecture with a 2D mesh geometry, where the execution voltage and frequency levels of the cores can be selected dynamically from a given set of discrete DVFS levels. We extend the Crown Scheduling technique for parallelizable tasks to temperature-aware scheduling, taking into account the tasks' heat generation, the heat limit for each core, and the heat diffusion along the 2D mesh geometry of typical many-core CPU architectures. Our approach introduces a systematic method for alternating task executions between disjoint ``buddy'' core groups in subsequent iterations of crown schedules to avoid long-time overheating of cores. We present two integer linear program (ILP) solutions with different degrees of flexibility, and show that these can be solved for realistic problem sizes with today's ILP solver technology. Experiments with several streaming task graphs derived from real-world applications show that the flexibility for the scheduler can be greatly increased by considering buddy-cores, thus finding feasible solutions in scenarios that could not be solved otherwise. We also present a fast heuristic for the same problem.",
+isbn="978-3-030-88224-2",
+doi="https://doi.org/10.1007/978-3-030-88224-2_9",
+url="https://link.springer.com/chapter/10.1007/978-3-030-88224-2_9"
+}
+
+@InProceedings{arc2021,
+author={J{\"o}rg Keller and Sebastian Litzinger and Christoph Kessler},
+editor={Derrien, Steven and Hannig, Frank and Diniz, Pedro C. and Chillet, Daniel},
+title={Combining Design Space Exploration with Task Scheduling of Moldable Streaming Tasks on Reconfigurable Platforms},
+booktitle={Applied Reconfigurable Computing. Architectures, Tools, and Applications},
+year={2021},
+publisher={Springer International Publishing},
+address={Cham},
+pages={93--107},
+abstract={Design space exploration can be used to find a power-efficient architectural design for a given application, such as the best suited configuration of a heterogeneous system from soft cores of different types, given area and throughput constraints. We show how to integrate design space exploration into a static scheduling algorithm for a streaming task graph application with parallelizable tasks and solve the resulting combined optimization problem by an integer linear program (ILP). We demonstrate the improvements by our strategy with ARM big and LITTLE soft cores and synthetic task graphs.},
+isbn={978-3-030-79025-7},
+doi={https://doi.org/10.1007/978-3-030-79025-7_7},
+url={https://link.springer.com/chapter/10.1007/978-3-030-79025-7_7}
+}
+
+@article{bwlquam3,
+author = {Wilhelm R\"{o}dder and Andreas Dellnitz and Ivan Gartner and Sebastian Litzinger},
+title = {Analysing terrorist networks -- An entropy-driven method},
+journal = {Expert Systems},
+volume = {39},
+number = {10},
+pages = {e12720},
+keywords = {9/11 attack, Bali attack, entropy, knowledge processing, network analysis, terrorism},
+doi = {https://doi.org/10.1111/exsy.12720},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.12720},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/exsy.12720},
+abstract = {Abstract Terrorism is a scourge of humanity. Thousands of people were killed by terrorists in the last years. To understand the structure, information flow and leadership in terrorist cells is a must for all societies to prevent future attacks. Network theory can help to model such cells and to identify leading members therein. This contribution uses the graph theoretical approach as a basis and enriches it by an entropy-driven knowledge processing. After presenting the theoretical concept two terrorist cells, the one of the Bali attack and the one of the 9/11 attack, are analysed. The results are compared to those of other methods. A preview on the application of weighted networks and multi-nets complements the new findings.}
+}
+
+@article{pdp2020jsa,
+title = {Crown-scheduling of sets of parallelizable tasks for robustness and energy-elasticity on many-core systems with discrete dynamic voltage and frequency scaling},
+journal = {Journal of Systems Architecture},
+pages = {101999},
+year = {2021},
+issn = {1383-7621},
+doi = {10.1016/j.sysarc.2021.101999},
+url = {http://www.sciencedirect.com/science/article/pii/S1383762121000175},
+author = {Christoph Kessler and Sebastian Litzinger and Jörg Keller},
+keywords = {Adaptive task scheduling, Robustness of schedules, Moldable parallel tasks, Crown scheduling, Energy optimization},
+abstract = {Crown scheduling is a static scheduling approach for sets of parallelizable tasks with a common deadline, aiming to minimize energy consumption on parallel processors with frequency scaling. We demonstrate that crown schedules are robust, i.e. that the runtime prolongation of one task by a moderate percentage does not cause a deadline transgression by the same fraction. In addition, by speeding up some tasks scheduled after the prolonged task, the deadline can still be met at a moderate additional energy consumption. We present a heuristic to perform this re-scaling online and explore the tradeoff between additional energy consumption in normal execution and limitation of deadline transgression in delay cases. We evaluate our approach with scheduling experiments on synthetic and application task sets. Finally, we consider influence of heterogeneous platforms such as ARM’s big.LITTLE on robustness.}
+}
+
+@article{pmam2020ccpe,
+author = {Sebastian Litzinger and Jörg Keller},
+title = {Code generation for energy-efficient execution of dynamic streaming task graphs on parallel and heterogeneous platforms},
+journal = {Concurrency and Computation: Practice and Experience},
+volume = {n/a},
+number = {n/a},
+pages = {e6072},
+keywords = {dynamic task structure, energy-efficient code generation, parallel platform, streaming task graph},
+doi = {https://doi.org/10.1002/cpe.6072},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.6072},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpe.6072},
+abstract = {Summary Streaming task graphs are high-level specifications for parallel applications operating on streams of data. For a static task graph structure, static schedulers can be used to map the tasks onto a parallel platform to minimize energy consumption for given throughput. We introduce dynamic elements into the task graph structure, thus specifying applications which adapt behavior at runtime, for example, switching from check-only to active mode. This in turn necessitates a runtime system that can remap tasks and potentially adapt their degree of parallelism in case of a dynamic change of the task structure. We provide a toolchain and evaluate our prototype with streaming task graphs both synthetic and from a real application. We find that we meet throughput requirements with <3.5% energy overhead on average compared with an optimal static scheduler based on integer linear programming. Runtime overhead for remapping is negligible and application runtime and energy are accurately predicted. We also outline how to extend our system to a heterogeneous platform.}
+}
+
+@article{emsoft2020tcad,
+  author={Christoph Kessler and Sebastian Litzinger and J\"{o}rg Keller},
+  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
+  title={Static Scheduling of Moldable Streaming Tasks With Task Fusion for Parallel Systems With DVFS}, 
+  year={2020},
+  volume={39},
+  number={11},
+  pages={4166--4178},
+  doi={10.1109/TCAD.2020.3013054},
+  abstract={We consider the problem of statically scheduling a task graph of moldable streaming tasks (i.e., the actor network) to a multicore or many-core CPU with discrete dynamic voltage and frequency scaling (DVFS). We employ an integer linear programming (ILP) approach that combines allocating cores to tasks, mapping tasks to core subsets, selecting a DVFS level for each task, and considering all options for task fusion as provided by a cost model, given data throughput and latency requirements and targeting low energy consumption. We also propose a partly decoupled approach that applies greedy prefusion before running an ILP-based scheduler considering the other three subproblems together. We use microbenchmarking on an ARM big.LITTLE architecture to quantify the advantage of task fusion in the above setting, and evaluate the use of task fusion in terms of energy savings, latency improvement, and scheduling time for three real-world applications. We confirm the scheduling results by running the applications with and without task fusions on the ARM big.LITTLE. Results indicate that streaming applications can profit from task fusion, as we achieve a significant reduction of energy consumption in most cases, while scheduling time is only moderately increased.}
+}
+
+@inproceedings{pmam2020,
+author = {Sebastian Litzinger and J\"{o}rg Keller},
+title = {Generating Energy-Efficient Code for Parallel Applications Specified by Streaming Task Graphs with Dynamic Elements},
+year = {2020},
+isbn = {9781450375221},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3380536.3380544},
+booktitle = {Proceedings of the 11th International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM)},
+articleno = {8},
+numpages = {10},
+keywords = {parallel platform, dynamic task structure, streaming task graph, energy-efficient code generation},
+location = {San Diego, California},
+series = {PMAM '20},
+abstract = {Streaming task graphs are a high-level construct used to specify parallel applications operating on streams of data, and energy-efficient code meeting data throughput requirements can be generated automatically. Tasks can be parallel themselves, so that two levels of parallelism are present. Normally, the task graph structure is assumed to be static, so that static schedulers can be used to map the (parallel) tasks onto a parallel platform to minimize energy consumption for given throughput. We propose a formulation that introduces dynamic elements into the task graph structure, thus allowing to specify applications that can adapt their behavior at runtime, e.g. activating another filter task depending on data quality. This in turn necessitates a runtime system that can re-map tasks in case of a dynamic change of the task structure. We provide the core of such a runtime system together with a task mapper that is able to work incrementally, i.e. that can re-use results from previous mappings when computing a new mapping in case of task addition, change or removal, thus minimizing runtime overhead. We evaluate our prototype implementation with a set of streaming task graphs and compare our results to an optimal static scheduler based on integer linear programming. We find that our prototype is able to meet throughput requirements with <3.5% energy overhead on average compared to the optimal scheduler.}
+}
+
+@inproceedings{pdp2020maxprof,
+  author={Sebastian Litzinger and J\"{o}rg Keller and Christoph Kessler},
+  booktitle={Proceedings of the 28th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)}, 
+  title={Maximizing Profit in Energy-Efficient Moldable Task Execution with Deadline}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={152--156},
+  doi={10.1109/PDP50117.2020.00029},
+  abstract={We consider static scheduling of parallelizable tasks onto machines with frequency scaling for the case that not all tasks can be executed prior to a deadline. We model this scenario from a HPC cluster operator's perspective. We solve the combinatorial optimization problem to maximize the operator's profit by integer linear programming and by a heuristic. We evaluate the heuristic with synthetic benchmark task sets and demonstrate that it achieves at most 20% less profit than the solution via linear programming, so that it can be used for large task sets where the latter is not feasible anymore.}
+}
+
+@inproceedings{pdp2020robustness,
+  author={Christoph Kessler and Sebastian Litzinger and J\"{o}rg Keller},
+  booktitle={Proceedings of the 28th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)}, 
+  title={Robustness and Energy-elasticity of Crown Schedules for Sets of Parallelizable Tasks on Many-core Systems with DVFS}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={136--143},
+  doi={10.1109/PDP50117.2020.00027},
+  abstract={Crown scheduling is a static scheduling approach for sets of parallelizable tasks with a common deadline, aiming to minimize energy consumption on parallel processors with frequency scaling. We demonstrate that crown schedules are robust, i.e. that the runtime prolongation of one task by a moderate percentage does not cause a deadline transgression by the same fraction. In addition, by speeding up some tasks scheduled after the prolonged task, the deadline can still be met at a moderate additional energy consumption. We present a heuristic to perform this re-scaling online. We evaluate our approach with scheduling experiments on synthetic task sets.}
+}
+
+@misc{multiprog2020,
+  title={Influence of Incremental Constraints on Energy Consumption and Static Scheduling Time for Moldable Tasks with Deadline}, 
+  author={Jörg Keller and Sebastian Litzinger},
+  year={2020},
+  eprint={2006.11062},
+  note={Presented at the 13th International Workshop on Programmability and Architectures for Heterogeneous Multicores, 2020},
+  archivePrefix={arXiv},
+  primaryClass={cs.DC},
+  url={https://arxiv.org/pdf/2006.11062},
+  abstract={Static scheduling of independent, moldable tasks on parallel machines with frequency scaling comprises decisions on core allocation, assignment, frequency scaling and ordering, to meet a deadline and minimize energy consumption. Constraining some of these decisions reduces the solution space, i.e. may increase energy consumption, but may also reduce scheduling time or give the chance to tackle larger task sets. We investigate the influence of different constraints that lead from an unrestricted scheduler via two intermediate steps to the crown scheduler, by presenting integer linear programs for all four schedulers. We compare scheduling time and energy consumption for a benchmark suite of synthetic task sets of different sizes. Our results indicate that the final step towards the crown scheduler -- the execution order constraint -- is responsible for faster scheduling when task sets are small, and lower energy consumption when we deal with large task sets.}
+}
+
+@inproceedings{europar2019,
+author={Christoph Kessler and Sebastian Litzinger and J\"{o}rg Keller},
+editor={Schwardmann, Ulrich and Boehme, Christian and B. Heras, Dora and Cardellini, Valeria and Jeannot, Emmanuel and Salis, Antonio and Schifanella, Claudio and Manumachu, Ravi Reddy and Schwamborn, Dieter and Ricci, Laura and Sangyoon, Oh and Gruber, Thomas and Antonelli, Laura and Scott, Stephen L.},
+title={Adaptive Crown Scheduling for Streaming Tasks on Many-Core Systems with Discrete DVFS},
+booktitle={Euro-Par 2019: Parallel Processing Workshops},
+year={2020},
+publisher={Springer International Publishing},
+address={Cham},
+pages={17--29},
+isbn={978-3-030-48340-1},
+doi={10.1007/978-3-030-48340-1_2},
+abstract={We consider temperature-aware, energy-efficient scheduling of streaming applications with parallelizable tasks and throughput requirement on multi-/many-core embedded devices with discrete dynamic voltage and frequency scaling (DVFS). Given the few available discrete frequency levels, we provide the task schedule in a conservative and a relaxed form so that using them adaptively decreases power consumption, i.e. lowers chip temperature, without hurting throughput in the long run. We support our proposal by a toolchain to compute the schedules and evaluate the power reduction with synthetic task sets.}
+}
+
+@inproceedings{eusipco2019,
+  author={Sebastian Litzinger and J\"{o}rg Keller and Christoph Kessler},
+  booktitle={Proceedings of the 27th European Signal Processing Conference (EUSIPCO)}, 
+  title={Scheduling Moldable Parallel Streaming Tasks on Heterogeneous Platforms with Frequency Scaling}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={1--5},
+  doi={10.23919/EUSIPCO.2019.8903180},
+  abstract={We extend static scheduling of parallelizable tasks to machines with multiple core types, taking differences in performance and power consumption due to task type into account. Next to energy minimization for given deadline, i.e. for given throughput requirement, we consider makespan minimization for given energy or average power budgets. We evaluate our approach by comparing schedules of synthetic task sets for big.LITTLE with other schedulers from literature. We achieve an improvement of up to 33%.}
+}
+
+@inproceedings{hpcs2019koerber,
+  author={Sebastian Litzinger and Oliver K\"{o}rber and J\"{o}rg Keller},
+  booktitle={Proceedings of the 17th International Conference on High Performance Computing \& Simulation (HPCS)}, 
+  title={Reducing Energy Consumption of HMAC Applications on Heterogeneous Platforms}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={152--158},
+  doi={10.1109/HPCS48598.2019.9188113},
+  abstract={Hash-based message authentication code (HMAC) is a form of cryptographic checksum which is frequently used in SSL/TLS. The IETF standard permits several hash function families with several possible checksum lengths. Thus, if checksums must be computed for a number of messages, a multi-dimensional optimization problem arises, especially if a heterogeneous platform like ARM big.LITTLE is used. We formulate the optimization problem as an energy minimization problem with constraints given by deadlines and the different power and performance profiles of different hash functions on different core types. Furthermore, we show that with the help of measurements done in previous work this optimization problem can be mapped to a known scheduling problem for big.LITTLE, i.e., that a scheduling algorithm for that problem can be adapted to our scheduling problem. Thus, a solution can be computed that, given deadline as well as message sizes and hash functions for the HMAC computations, minimizes energy consumption on the big.LITTLE, and takes profit from the heterogeneity. We compare the scheduling results from an optimal and a heuristic scheduler and find that the heuristic on average produces schedules with 4% higher energy consumption, with small variance.}
+}
+
+@inproceedings{hpcs2019spitzer,
+  author={J\"{o}rg Keller and Sebastian Litzinger and Wolfgang Spitzer},
+  booktitle={Proceedings of the 17th International Conference on High Performance Computing \& Simulation (HPCS)}, 
+  title={Probabilistic Runtime Guarantees for Statically Scheduled Taskgraphs with Stochastic Task Runtimes}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={575--581},
+  doi={10.1109/HPCS48598.2019.9188194},
+  abstract={Tasks with stochastic runtimes and dependencies are frequently met in multicore applications, but static schedulers need deterministic task runtimes as input. We first demonstrate by scheduling experiments that both for binomially and geometrically distributed task runtimes, which are often found in taskgraphs, choice of average task runtime as scheduler input is sufficient to obtain schedules with good average makespan, i.e. that inserting runtime buffers depending on the standard deviation of task runtimes is not helpful in the majority of cases. Furthermore, we compute discretized makespan distributions for schedules with binomially and geometrically distributed runtimes as frequently occuring distributions. Thus, applications where probabilistic makespan guarantees with quantiles (vs. worst case execution times) are usable can profit from our analysis by starting with sampling their makespan distribution to approximate mean and standard deviation, and using our tool to compute the makespan distribution. As a side effect, we see that the rule of thumb “makespan is below average plus three (one) standard deviations in 99% of cases for binomially (geometrically) distributed runtimes” still apply, although makespans are not binomially or geometrically distributed but exhibit heavy tails. We also show how to mathematically derive makespan distribution for taskgraphs with stochastic task runtimes for different distributions, if stronger guarantees are needed.}
+}
+
+@article{pars2019,
+  author = {Sebastian Litzinger and Jörg Keller},
+  title = {Influence of Discretization of Frequencies and Processor Allocation on Static Scheduling of Parallelizable Tasks with Deadlines},
+  journal = {PARS-Mitteilungen},
+  volume = {35},
+  number = {1},
+  year = {2020},
+  pages = {95--108},
+  url = {https://dl.gi.de/bitstream/handle/20.500.12116/33869/PARS2019_paper_4.pdf},
+  abstract={Models for energy-efficient static scheduling of parallelizable tasks with deadlines onfrequency-scalable parallel machines comprise moldable vs. malleable tasks and continuous vs. discrete frequency levels. We investigate the tradeoff between scheduling time and energy efficiency when going from continuous to discrete processor allocation and frequency levels. To this end, we present a tool to convert a schedule computed for malleable tasks on machines with continuous frequency scaling (P. Sanders, J. Speck, Euro-Par 2012) into one for moldable tasks on a machine with discrete frequency levels. We compare the energy efficiency of the converted schedule to the energy consumed by a schedule produced by the integrated crown scheduler (N. Melot et al., ACM TACO 2015) for moldable tasks and a machine with discrete frequency levels. Our experiments indicate that the converted Sanders Speck schedules, while computed faster, consume more energy on average than crown schedules. Surprisingly, it is not the step from malleable to moldable tasks that is responsible, but the step from continuous to discrete frequency levels.}
+}
+
+@inproceedings{icann2019,
+author={Sebastian Litzinger and Andreas Klos and Wolfram Schiffmann},
+editor={Tetko, Igor V. and K{\r{u}}rkov{\'a}, V{\v{e}}ra and Karpov, Pavel and Theis, Fabian},
+title={Compute-Efficient Neural Network Architecture Optimization by a Genetic Algorithm},
+booktitle={Proceedings of the 8th International Conference on Artificial Neural Networks (ICANN)},
+year={2019},
+publisher={Springer International Publishing},
+address={Cham},
+pages={387--392},
+isbn={978-3-030-30484-3},
+doi={10.1007/978-3-030-30484-3_32},
+abstract={A neural network’s topology greatly influences its generalization ability. Many approaches to topology optimization employ heuristics, for example genetic algorithms, oftentimes consuming immense computational resources. In this contribution, we present a genetic algorithm for network topology optimization which can be deployed effectively in low-resource settings. To this end, we utilize the TensorFlow framework for network training and operate with several techniques reducing the computational load. The genetic algorithm is subsequently applied to the MNIST image classification task in two different scenarios.}
+}
+
+@article{bwlquam2,
+  author={Wilhelm R\"{o}dder and Andreas Dellnitz and Ivan Gartner and Sebastian Litzinger},
+  journal={Journal of Applied Logics},
+  title={Weight Prediction on Missing Links in Social Networks -- a Cross-Entropy-Based Approach --},
+  year={2019},
+  volume={6},
+  number={1},
+  pages={83--104},
+  url={http://www.collegepublications.co.uk/downloads/ifcolog00030.pdf},
+  abstract={A social network (SN) is a group of actors and their mutual relations. Sociologists try to answer the question why networked actors in our society aremore successful than others and how this networking works. Directed or undirected graphs, hyper- or multigraphs are a suitable means to visualize social relations. Social networks with directed and weighted links among actors need sophisticated instruments for analyses. We model these links as probabilistic conditioned propositions. Then for any actor i the model permits the estimation of transfer probabilities to all actors j, may they be linked to i or not. When future sociological research wants to interconnect missing links, some of the respective weights cannot be chosen at will but must fall in certain intervals. They must be in accordance with former conditional-logical net structure. To achieve this goal, cross-entropy-driven knowledge bases are applied. For a middle-size network we demonstrate the new findings.}
+}
+
+@article{bwlquam1,
+  author={Wilhelm R\"{o}dder and Andreas Dellnitz and Friedhelm Kulmann and Sebastian Litzinger and Elmar Reucher},
+  journal={Entropy},
+  title={Bipartite Structures in Social Networks: Traditional versus Entropy-Driven Analyses},
+  year={2019},
+  volume={21},
+  number={3},
+  articleno = {277},
+  numpages = {17},
+  doi={10.3390/e21030277},
+  url={https://www.mdpi.com/1099-4300/21/3/277/pdf},
+  abstract={A special type of social networks is the so-called affiliation network, consisting of two modes of vertices: actors and events. Up to now, in the undirected case, the closeness of actors in such networks has been measured by their jointly-attended events. Indirect contacts and attenuated and directed links are of minor interest in affiliation networks. These flaws make a veritable estimation of, e.g., possible message transfers amongst actors questionable. In this contribution, first, we discuss these matters from a graph-theoretical point of view. Second, so as to avoid the identified weaknesses, we propose an up-and-coming entropy-based approach for modeling such networks in their generic structure, replacing directed (attenuated) links by conditionals: if-then. In this framework, the contribution of actors and events to a reliable message transfer from one actor to another -- even via intermediaries -- is then calculated applying the principle of maximum entropy. The usefulness of this new approach is demonstrated by the analysis of an affiliation network called “corporate directors”.}
+}
+
