@@ -71,7 +71,7 @@ sections:
         folders:
           - publication
         featured_only: false
-        count: 0
+      count: 0
     design:
       view: citation
   - block: collection
@@ -82,8 +82,8 @@ sections:
         folders:
           - event
       count: 0
-    design:
-      view: citation
+    #design:
+      #view: article-grid
       #columns: 1
   - block: collection
     id: posters
@@ -93,8 +93,8 @@ sections:
         folders:
           - poster
       count: 0
-    design:
-      view: citation
+    #design:
+      #view: date-title-summary
       #columns: 1
   - block: markdown
     id: events
