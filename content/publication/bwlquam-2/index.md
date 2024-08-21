@@ -6,7 +6,7 @@ authors:
 - Andreas Dellnitz
 - Ivan Gartner
 - Sebastian Litzinger
-date: '2019-01-02'
+date: '2019-01-01'
 publishDate: '2024-08-19T12:43:31.668283Z'
 publication_types:
 - article-journal

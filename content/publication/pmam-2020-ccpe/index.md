@@ -4,7 +4,7 @@ title: Code generation for energy-efficient execution of dynamic streaming task 
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: '2020-01-07'
+date: '2020-06-11'
 publishDate: '2024-08-19T12:43:31.588427Z'
 publication_types:
 - article-journal

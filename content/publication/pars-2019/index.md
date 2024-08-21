@@ -4,7 +4,7 @@ title: Influence of Discretization of Frequencies and Processor Allocation on St
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: '2020-01-01'
+date: '2020-03-12'
 publishDate: '2024-08-19T12:43:31.655483Z'
 publication_types:
 - article-journal

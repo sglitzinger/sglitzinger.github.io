@@ -7,7 +7,7 @@ authors:
 - Flavius Gruian
 - Jörg Keller
 - Sebastian Litzinger
-date: '2024-01-01'
+date: '2024-05-21'
 publishDate: '2024-08-19T12:43:31.466271Z'
 publication_types:
 - paper-conference

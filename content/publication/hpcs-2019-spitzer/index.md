@@ -5,7 +5,7 @@ authors:
 - Jörg Keller
 - Sebastian Litzinger
 - Wolfgang Spitzer
-date: '2019-01-05'
+date: '2020-09-20'
 publishDate: '2024-08-19T12:43:31.648655Z'
 publication_types:
 - paper-conference

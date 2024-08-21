@@ -4,7 +4,7 @@ authors:
 - Sebastian Litzinger
 - Andreas Klos
 - Wolfram Schiffmann
-date: '2019-01-03'
+date: '2019-09-09'
 publishDate: '2024-08-19T12:43:31.662063Z'
 publication_types:
 - paper-conference

@@ -7,7 +7,7 @@ authors:
 - Friedhelm Kulmann
 - Sebastian Litzinger
 - Elmar Reucher
-date: '2019-01-01'
+date: '2019-03-13'
 publishDate: '2024-08-19T12:43:31.674797Z'
 publication_types:
 - article-journal

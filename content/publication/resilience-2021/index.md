@@ -4,7 +4,7 @@ title: Energy-Efficient Execution of Streaming Task Graphs with Parallelizable T
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-03'
+date: '2022-06-09'
 publishDate: '2024-08-19T12:43:31.522166Z'
 publication_types:
 - paper-conference

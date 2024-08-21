@@ -4,7 +4,7 @@ title: Systematic search space design for energy-efficient static scheduling of 
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2022-01-02'
+date: '2022-01-24'
 publishDate: '2024-08-19T12:43:31.528532Z'
 publication_types:
 - article-journal

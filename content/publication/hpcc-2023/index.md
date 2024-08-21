@@ -3,7 +3,7 @@ title: Heuristic Scheduling of Streaming Applications for Energy Efficiency on H
   Multicores
 authors:
 - Sebastian Litzinger
-date: '2023-01-03'
+date: '2024-03-25'
 publishDate: '2024-08-19T12:43:31.476132Z'
 publication_types:
 - paper-conference

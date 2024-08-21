@@ -4,7 +4,7 @@ title: Generating Energy-Efficient Code for Parallel Applications Specified by S
 authors:
 - Sebastian Litzinger
 - Jörg Keller
-date: '2020-01-03'
+date: '2020-02-22'
 publishDate: '2024-08-19T12:43:31.602796Z'
 publication_types:
 - paper-conference

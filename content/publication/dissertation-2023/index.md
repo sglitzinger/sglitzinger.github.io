@@ -3,7 +3,7 @@ title: Raising Energy Efficiency and Fault Tolerance with Parallel Streaming App
   Scheduling on Multicore Systems
 authors:
 - Sebastian Litzinger
-date: '2023-01-03'
+date: '2023-10-27'
 publishDate: '2024-08-19T12:43:31.482244Z'
 publication_types:
 - thesis

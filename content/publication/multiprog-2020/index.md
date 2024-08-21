@@ -4,7 +4,7 @@ title: Influence of Incremental Constraints on Energy Consumption and Static Sch
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2020-01-01'
+date: '2020-06-19'
 publishDate: '2024-08-19T12:43:31.622498Z'
 publication_types:
 - manuscript
