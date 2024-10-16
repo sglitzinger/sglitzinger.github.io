@@ -1,6 +1,5 @@
 ---
-title: Packet-Type Aware Scheduling of Moldable Streaming Tasks on Multicore Systems
-  with DVFS
+title: Archive-based Covert Channel in Sensor Streaming Data
 authors:
 - Carina Heßeling
 - Sebastian Litzinger

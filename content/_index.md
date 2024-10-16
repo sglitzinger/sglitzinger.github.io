@@ -149,7 +149,8 @@ sections:
       title: 'Event Attendances'
       subtitle: ''
       text: |-
-        - **GI Sicherheit 2024**, Worms, Germany
+        - **30th PARS Workshop 2024**, TH Ingolstadt, Germany
+        - **GI Sicherheit 2024**, HS Worms, Germany
         - **HPCC 2023**, Melbourne, Australia
         - **eScience 2023**, Limassol, Cyprus
         - **ARES 2022**, Vienna, Austria
