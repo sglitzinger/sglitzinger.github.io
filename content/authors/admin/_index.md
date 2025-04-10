@@ -24,14 +24,17 @@ role: Postdoc in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: FernUniversität in Hagen
-    url: https://fernuni-hagen.de
+  # - name: FernUniversität in Hagen
+  #   url: https://fernuni-hagen.de
+  - name: Linköpings Universitet
+    url: https://liu.se
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sebastian.litzinger@fernuni-hagen.de'
+    # url: 'mailto:sebastian.litzinger@fernuni-hagen.de'
+    url: 'mailto:sebastian.litzinger@liu.se'
     label: E-mail Me
 #   - icon: brands/x
 #     url: https://twitter.com/GetResearchDev
@@ -195,6 +198,6 @@ education:
 
 ## About Me
 
-I am a postdoctoral researcher with the <a href="https://www.fernuni-hagen.de/pv">Parallelism & VLSI Group</a> under supervision of <a href="https://www.fernuni-hagen.de/pv/mitarbeitende/joerg.keller.shtml">Jörg Keller</a> at FernUniversität in Hagen.
+I am a postdoctoral researcher with the <a href="https://www.ida.liu.se/labs/pelab/">Programming Environments Laboratory</a> under supervision of <a href="https://www.ida.liu.se/~chrke55/">Christoph Kessler</a> at the Department of Computer and Information Science, Linköpings Universitet, Sweden.
 
 In my research, I am concerned with energy-efficient multicore scheduling and the application of machine learning techniques to scheduling problems. Furthermore, I am interested in neural architecture search, in particular based on metaheuristics.
