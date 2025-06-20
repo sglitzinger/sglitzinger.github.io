@@ -183,7 +183,7 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
-        At FernUniversität in Hagen, I serve as a teaching assistant for courses on parallel computing, simulation, and computer engineering. Moreover, I take part in supervising bachelor and master theses on topics related to parallel computing.
+        At FernUniversität in Hagen, I have served as a teaching assistant for courses on parallel computing, simulation, and computer engineering. Moreover, I have taken part in supervising bachelor and master theses on topics related to parallel computing.
 
         As a philosophy student, I have worked as a teaching assistant for introductory courses on logic at Universität Hamburg and at Eberhard Karls Universität Tübingen.
     design:

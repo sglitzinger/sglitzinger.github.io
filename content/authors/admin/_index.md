@@ -26,7 +26,7 @@ role: Postdoc in Computer Science
 organizations:
   # - name: FernUniversität in Hagen
   #   url: https://fernuni-hagen.de
-  - name: Linköpings Universitet
+  - name: Linköping University
     url: https://liu.se
 
 # Social network links
@@ -198,6 +198,6 @@ education:
 
 ## About Me
 
-I am a postdoctoral researcher with the <a href="https://www.ida.liu.se/labs/pelab/">Programming Environments Laboratory</a> under supervision of <a href="https://www.ida.liu.se/~chrke55/">Christoph Kessler</a> at the Department of Computer and Information Science, Linköpings Universitet, Sweden.
+I am a postdoctoral researcher with the <a href="https://www.ida.liu.se/labs/pelab/">Programming Environments Laboratory</a> under supervision of <a href="https://www.ida.liu.se/~chrke55/">Christoph Kessler</a> at the Department of Computer and Information Science, Linköping University, Sweden.
 
 In my research, I am concerned with energy-efficient multicore scheduling and the application of machine learning techniques to scheduling problems. Furthermore, I am interested in neural architecture search, in particular based on metaheuristics.
