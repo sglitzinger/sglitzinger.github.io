@@ -5,7 +5,7 @@ authors:
 - Osmanbey Uzunkol
 - Sebastian Litzinger
 date: '2025-11-14'
-publishDate: '2025-11-25T12:43:31.507864Z'
+publishDate: '2025-11-25T00:43:31.507864Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 7th International Conference on Blockchain Computing and Applications (BCCA)*'

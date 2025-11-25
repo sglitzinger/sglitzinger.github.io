@@ -149,6 +149,7 @@ sections:
       title: 'Event Attendances'
       subtitle: ''
       text: |-
+        - **31st PARS Workshop 2025**, FeU Hagen, Germany
         - **30th PARS Workshop 2024**, TH Ingolstadt, Germany
         - **GI Sicherheit 2024**, HS Worms, Germany
         - **HPCC 2023**, Melbourne, Australia
