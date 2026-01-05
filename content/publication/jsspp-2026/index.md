@@ -1,11 +1,11 @@
 ---
-title: ''
+title: 'Quality-Aware Energy-Efficient Scheduling of Moldable-Parallel Streaming Computations on Heterogeneous Multicore CPUs with DVFS'
 authors:
 - Sajad Khosravi
 - Sebastian Litzinger
 - Christoph Kessler
 - Jörg Keller
-date: '2026-01-03'
+date: '2026-01-02'
 publishDate: '2025-11-25T00:43:31.507864Z'
 publication_types:
 - paper-conference

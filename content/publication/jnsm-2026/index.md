@@ -4,7 +4,7 @@ authors:
 - Sebastian Litzinger
 - Jörg Keller
 - Luca Caviglione
-date: '2026-01-01'
+date: '2025-11-11'
 publishDate: '2025-11-25T00:43:31.507864Z'
 publication_types:
 - article-journal

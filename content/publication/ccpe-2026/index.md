@@ -1,9 +1,9 @@
 ---
-title: 'Optimization of Warden Network Functions for Mitigating Network Covert Channels'
+title: 'Parallel Algorithm for Approximate State Graph Exploration With Restricted Memory Footprint'
 authors:
 - Jörg Keller
 - Sebastian Litzinger
-date: '2026-01-02'
+date: '2025-12-19'
 publishDate: '2025-11-25T00:43:31.507864Z'
 publication_types:
 - article-journal
